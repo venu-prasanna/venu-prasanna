@@ -1,7 +1,7 @@
 Hey there 👋
 
 
-I’m Venu Prasanna M, an experienced Software Developer. Currently Learning Data Engineering.
+I’m Venu Prasanna M, an experienced Software Developer.
 
 ![](https://komarev.com/ghpvc/?username=venu-prasanna&label=views&color=yellow)
 
